@@ -4,7 +4,7 @@ class Httpd24 < Formula
 	homepage 'http://httpd.apache.org'
     url 'http://www.apache.org/dist/httpd/httpd-2.4.4.tar.bz2'
     sha1 '0c5ab7f876aa10fbe8bfab2c34f8dd3dc76db16c'
-    version '2.4.3'
+    version '2.4.4'
 
 	skip_clean ['bin', 'sbin']
 
